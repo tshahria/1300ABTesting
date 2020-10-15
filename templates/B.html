@@ -72,7 +72,7 @@
     <div class="content-pane">
       <div class="vendor-wrapper" id="mp1">
         <img src="../static/coppercombo.png" class="vendor-photo" />
-        <button class="vendor-book-button btn btn-primary" type="submit" id="mp1">
+        <button class="vendor-book-button btn btn-primary btn-lg" type="submit" id="mp1">
           Add To Cart
         </button>
         <span><span id="mp1-added">0</span> in cart</span>
@@ -83,7 +83,7 @@
 
       <div class="vendor-wrapper" id="mp2">
         <img src="../static/geoprickly.jpg" class="vendor-photo" />
-        <button class="vendor-book-button btn btn-primary" type="submit" id="mp2">
+        <button class="vendor-book-button btn btn-primary btn-lg" type="submit" id="mp2">
           Add To Cart
         </button>
         <span><span id="mp2-added">0</span> in cart</span>
@@ -93,9 +93,9 @@
 
       <div class="vendor-wrapper" id="mp3">
         <img src="../static/garden.jpg" class="vendor-photo" />
-        <button class="vendor-book-button btn btn-primary" type="submit" id="mp3">
+        <button class="vendor-book-button btn btn-primary btn-lg" type="submit" id="mp3">
           Add To Cart
-        </button>
+        </button> 
         <span><span id="mp3-added">0</span> in cart</span>
         <p>Cacti and succulent mini-garden in a congenial and rustic pot. <i>$25.99</i>
         </p>
@@ -103,7 +103,7 @@
 
       <div class="vendor-wrapper" id="mp4">
         <img src="../static/garden-combo.jpg" class="vendor-photo" />
-        <button class="vendor-book-button btn btn-primary" type="submit" id="mp4">
+        <button class="vendor-book-button btn btn-primary btn-lg" type="submit" id="mp4">
           Add To Cart
         </button>
         <span><span id="mp4-added">0</span> in cart</span>
@@ -119,11 +119,13 @@
         </span> CART
       </a>
       </div>
+      <h3 style="margin-top:1rem;"> Current Total : <span id="total">0</span></h3>
     </div>
 
     <!-- DO NOT EDIT below this line!! -->
     <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
     <script>
+        prices = {"mp1":9.99, "mp2":14.99, "mp3":25.99, "mp4":34.99};
         var timeLoaded = Date.now()
           $(document).ready(function() {
             timeLoaded =  Date.now();
@@ -168,6 +170,8 @@
 
         // Adds item with given id to the cart.
         function addToCart(item, num = 1) {
+          price = prices[item]
+          document.getElementById('total').textContent = (parseFloat(document.getElementById('total').textContent) + price).toFixed(2);
           countId = item + "-added";
           document.getElementById(countId).textContent = parseInt(document.getElementById(countId).textContent, 0) + num;
           incrementCartCount(val = num);

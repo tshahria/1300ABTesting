@@ -42,7 +42,23 @@
 
         console.log('version A: cookie:' + cookie)
     </script>
-
+    <style>
+      @font-face {
+        font-family: 'Quicksand';
+        font-style: normal;
+        font-weight: 400;
+        src: url('../fonts/quicksand-v21-latin-regular.eot'); /* IE9 Compat Modes */
+        src: local(''),
+          url('../fonts/quicksand-v21-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+          url('../fonts/quicksand-v21-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+          url('../fonts/quicksand-v21-latin-regular.woff') format('woff'), /* Modern Browsers */
+          url('../fonts/quicksand-v21-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+          url('../fonts/quicksand-v21-latin-regular.svg#Quicksand') format('svg'); /* Legacy iOS */
+      }
+      body {
+        font-family: "Quicksand", sans-serif !important;
+      }
+    </style>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -62,9 +78,9 @@
           choosing different images, changing layout, etc. Show your creativity!
           We want to see meaningful differences -->
       <!-- Feel free to beautify the site, and/or update the content-->
-      <i>An online succulent store
+      <p class="lead">An online succulent store
         for your inner plant lady.
-      </i>
+      </p>
     </header>
 
     <!-- If you add any new buttons, you need to update the javascript file, for
