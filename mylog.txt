@@ -1,0 +1,246 @@
+2020-10-15T23:46:08.854056+00:00 app[api]: Release v1 created by user tanvir_shahriar@brown.edu
+2020-10-15T23:46:08.854056+00:00 app[api]: Initial release by user tanvir_shahriar@brown.edu
+2020-10-15T23:46:08.983772+00:00 app[api]: Release v2 created by user tanvir_shahriar@brown.edu
+2020-10-15T23:46:08.983772+00:00 app[api]: Enable Logplex by user tanvir_shahriar@brown.edu
+2020-10-15T23:46:26.000000+00:00 app[api]: Build started by user tanvir_shahriar@brown.edu
+2020-10-15T23:46:59.328590+00:00 app[api]: Deploy 9a782b20 by user tanvir_shahriar@brown.edu
+2020-10-15T23:46:59.328590+00:00 app[api]: Release v3 created by user tanvir_shahriar@brown.edu
+2020-10-15T23:46:59.345562+00:00 app[api]: Scaled to web@1:Free by user tanvir_shahriar@brown.edu
+2020-10-15T23:47:03.772418+00:00 heroku[web.1]: Starting process with command `python app.py`
+2020-10-15T23:47:06.598420+00:00 app[web.1]: version pageLoadTime clickTime clickHTMLElementId UniqueSession
+2020-10-15T23:47:06.605162+00:00 app[web.1]: * Serving Flask app "app" (lazy loading)
+2020-10-15T23:47:06.605210+00:00 app[web.1]: * Environment: production
+2020-10-15T23:47:06.605325+00:00 app[web.1]: WARNING: This is a development server. Do not use it in a production deployment.
+2020-10-15T23:47:06.605418+00:00 app[web.1]: Use a production WSGI server instead.
+2020-10-15T23:47:06.605494+00:00 app[web.1]: * Debug mode: on
+2020-10-15T23:47:06.616155+00:00 app[web.1]: * Running on http://0.0.0.0:4641/ (Press CTRL+C to quit)
+2020-10-15T23:47:06.617627+00:00 app[web.1]: * Restarting with stat
+2020-10-15T23:47:07.066011+00:00 app[web.1]: version pageLoadTime clickTime clickHTMLElementId UniqueSession
+2020-10-15T23:47:07.088465+00:00 app[web.1]: * Debugger is active!
+2020-10-15T23:47:07.091129+00:00 app[web.1]: * Debugger PIN: 210-202-025
+2020-10-15T23:47:08.039320+00:00 heroku[web.1]: State changed from starting to up
+2020-10-15T23:47:09.000000+00:00 app[api]: Build succeeded
+2020-10-15T23:51:26.000000+00:00 app[api]: Build started by user tanvir_shahriar@brown.edu
+2020-10-15T23:51:53.999439+00:00 app[api]: Deploy cbc94cc2 by user tanvir_shahriar@brown.edu
+2020-10-15T23:51:53.999439+00:00 app[api]: Release v4 created by user tanvir_shahriar@brown.edu
+2020-10-15T23:51:54.194615+00:00 heroku[web.1]: Restarting
+2020-10-15T23:51:54.198085+00:00 heroku[web.1]: State changed from up to starting
+2020-10-15T23:51:57.043395+00:00 heroku[web.1]: Stopping all processes with SIGTERM
+2020-10-15T23:51:57.214565+00:00 heroku[web.1]: Process exited with status 0
+2020-10-15T23:51:59.046287+00:00 heroku[web.1]: Starting process with command `python app.py`
+2020-10-15T23:52:01.265988+00:00 app[web.1]: version pageLoadTime clickTime clickHTMLElementId UniqueSession
+2020-10-15T23:52:01.274811+00:00 app[web.1]: * Serving Flask app "app" (lazy loading)
+2020-10-15T23:52:01.274854+00:00 app[web.1]: * Environment: production
+2020-10-15T23:52:01.274919+00:00 app[web.1]: WARNING: This is a development server. Do not use it in a production deployment.
+2020-10-15T23:52:01.274961+00:00 app[web.1]: Use a production WSGI server instead.
+2020-10-15T23:52:01.274993+00:00 app[web.1]: * Debug mode: on
+2020-10-15T23:52:01.293547+00:00 app[web.1]: * Running on http://0.0.0.0:47332/ (Press CTRL+C to quit)
+2020-10-15T23:52:01.296351+00:00 app[web.1]: * Restarting with stat
+2020-10-15T23:52:01.563352+00:00 app[web.1]: version pageLoadTime clickTime clickHTMLElementId UniqueSession
+2020-10-15T23:52:01.592360+00:00 app[web.1]: * Debugger is active!
+2020-10-15T23:52:01.593737+00:00 app[web.1]: * Debugger PIN: 254-767-248
+2020-10-15T23:52:02.718166+00:00 heroku[web.1]: State changed from starting to up
+2020-10-15T23:52:04.000000+00:00 app[api]: Build succeeded
+2020-10-16T00:08:54.000000+00:00 app[api]: Build started by user tanvir_shahriar@brown.edu
+2020-10-16T00:09:24.046632+00:00 app[api]: Release v5 created by user tanvir_shahriar@brown.edu
+2020-10-16T00:09:24.046632+00:00 app[api]: Deploy cc1d0223 by user tanvir_shahriar@brown.edu
+2020-10-16T00:09:24.985096+00:00 heroku[web.1]: Restarting
+2020-10-16T00:09:25.000858+00:00 heroku[web.1]: State changed from up to starting
+2020-10-16T00:09:25.970391+00:00 heroku[web.1]: Stopping all processes with SIGTERM
+2020-10-16T00:09:26.062466+00:00 heroku[web.1]: Process exited with status 0
+2020-10-16T00:09:28.230988+00:00 heroku[web.1]: Starting process with command `python app.py`
+2020-10-16T00:09:30.430429+00:00 app[web.1]: version pageLoadTime clickTime clickHTMLElementId UniqueSession
+2020-10-16T00:09:30.439220+00:00 app[web.1]: * Serving Flask app "app" (lazy loading)
+2020-10-16T00:09:30.439252+00:00 app[web.1]: * Environment: production
+2020-10-16T00:09:30.439304+00:00 app[web.1]: WARNING: This is a development server. Do not use it in a production deployment.
+2020-10-16T00:09:30.439344+00:00 app[web.1]: Use a production WSGI server instead.
+2020-10-16T00:09:30.439379+00:00 app[web.1]: * Debug mode: on
+2020-10-16T00:09:30.459587+00:00 app[web.1]: * Running on http://0.0.0.0:47607/ (Press CTRL+C to quit)
+2020-10-16T00:09:30.462411+00:00 app[web.1]: * Restarting with stat
+2020-10-16T00:09:30.550501+00:00 heroku[web.1]: State changed from starting to up
+2020-10-16T00:09:30.730242+00:00 app[web.1]: version pageLoadTime clickTime clickHTMLElementId UniqueSession
+2020-10-16T00:09:30.767481+00:00 app[web.1]: * Debugger is active!
+2020-10-16T00:09:30.768708+00:00 app[web.1]: * Debugger PIN: 156-349-938
+2020-10-16T00:09:33.000000+00:00 app[api]: Build succeeded
+2020-10-16T00:09:43.000000+00:00 app[api]: Build started by user tanvir_shahriar@brown.edu
+2020-10-16T00:10:11.497929+00:00 app[api]: Deploy cc1d0223 by user tanvir_shahriar@brown.edu
+2020-10-16T00:10:11.497929+00:00 app[api]: Release v6 created by user tanvir_shahriar@brown.edu
+2020-10-16T00:10:11.659475+00:00 heroku[web.1]: Restarting
+2020-10-16T00:10:11.661674+00:00 heroku[web.1]: State changed from up to starting
+2020-10-16T00:10:12.611531+00:00 heroku[web.1]: Stopping all processes with SIGTERM
+2020-10-16T00:10:12.715673+00:00 heroku[web.1]: Process exited with status 0
+2020-10-16T00:10:15.629314+00:00 heroku[web.1]: Starting process with command `python app.py`
+2020-10-16T00:10:17.974064+00:00 app[web.1]: version pageLoadTime clickTime clickHTMLElementId UniqueSession
+2020-10-16T00:10:17.982725+00:00 app[web.1]: * Serving Flask app "app" (lazy loading)
+2020-10-16T00:10:17.982764+00:00 app[web.1]: * Environment: production
+2020-10-16T00:10:17.982845+00:00 app[web.1]: WARNING: This is a development server. Do not use it in a production deployment.
+2020-10-16T00:10:17.982905+00:00 app[web.1]: Use a production WSGI server instead.
+2020-10-16T00:10:17.982958+00:00 app[web.1]: * Debug mode: on
+2020-10-16T00:10:18.001456+00:00 app[web.1]: * Running on http://0.0.0.0:51882/ (Press CTRL+C to quit)
+2020-10-16T00:10:18.004658+00:00 app[web.1]: * Restarting with stat
+2020-10-16T00:10:18.302606+00:00 app[web.1]: version pageLoadTime clickTime clickHTMLElementId UniqueSession
+2020-10-16T00:10:18.340074+00:00 app[web.1]: * Debugger is active!
+2020-10-16T00:10:18.341321+00:00 app[web.1]: * Debugger PIN: 292-428-224
+2020-10-16T00:10:18.419209+00:00 heroku[web.1]: State changed from starting to up
+2020-10-16T00:10:21.000000+00:00 app[api]: Build succeeded
+2020-10-16T00:10:24.322694+00:00 app[web.1]: 10.37.161.80 - - [16/Oct/2020 00:10:24] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-16T00:10:24.329567+00:00 heroku[router]: at=info method=GET path="/" host=ab-test-app-studio.herokuapp.com request_id=2d63514a-ebfc-4af7-8f19-dd587c6a0585 fwd="71.117.143.167" dyno=web.1 connect=0ms service=20ms status=200 bytes=9267 protocol=https
+2020-10-16T00:10:24.442406+00:00 app[web.1]: 10.37.161.80 - - [16/Oct/2020 00:10:24] "[37mGET /static/b.css HTTP/1.1[0m" 200 -
+2020-10-16T00:10:24.444957+00:00 heroku[router]: at=info method=GET path="/static/b.css" host=ab-test-app-studio.herokuapp.com request_id=4ee32341-ca96-4250-aae5-af3a20e91b19 fwd="71.117.143.167" dyno=web.1 connect=0ms service=4ms status=200 bytes=1116 protocol=https
+2020-10-16T00:10:24.486896+00:00 app[web.1]: 10.37.161.80 - - [16/Oct/2020 00:10:24] "[37mGET /static/coppercombo.png HTTP/1.1[0m" 200 -
+2020-10-16T00:10:24.502969+00:00 heroku[router]: at=info method=GET path="/static/coppercombo.png" host=ab-test-app-studio.herokuapp.com request_id=684565ff-46ec-431b-ab94-a4a6c1064084 fwd="71.117.143.167" dyno=web.1 connect=0ms service=18ms status=200 bytes=243856 protocol=https
+2020-10-16T00:10:24.526838+00:00 app[web.1]: 10.52.10.57 - - [16/Oct/2020 00:10:24] "[37mGET /static/garden.jpg HTTP/1.1[0m" 200 -
+2020-10-16T00:10:24.540123+00:00 app[web.1]: 10.145.69.143 - - [16/Oct/2020 00:10:24] "[37mGET /static/geoprickly.jpg HTTP/1.1[0m" 200 -
+2020-10-16T00:10:24.540592+00:00 heroku[router]: at=info method=GET path="/static/garden.jpg" host=ab-test-app-studio.herokuapp.com request_id=ffe13126-2035-4e79-a4cc-a418593f6da3 fwd="71.117.143.167" dyno=web.1 connect=1ms service=14ms status=200 bytes=132444 protocol=https
+2020-10-16T00:10:24.543010+00:00 app[web.1]: 10.150.246.196 - - [16/Oct/2020 00:10:24] "[37mGET /static/garden-combo.jpg HTTP/1.1[0m" 200 -
+2020-10-16T00:10:24.575079+00:00 heroku[router]: at=info method=GET path="/static/garden-combo.jpg" host=ab-test-app-studio.herokuapp.com request_id=341fa371-a8bc-4b3a-88fc-e03bb8de3789 fwd="71.117.143.167" dyno=web.1 connect=1ms service=34ms status=200 bytes=160216 protocol=https
+2020-10-16T00:10:24.604246+00:00 app[web.1]: AB_TESTING: B 1602807024486 0 0 rogpzepn
+2020-10-16T00:10:24.605264+00:00 app[web.1]: 10.11.162.79 - - [16/Oct/2020 00:10:24] "[37mPOST /data HTTP/1.1[0m" 200 -
+2020-10-16T00:10:24.608060+00:00 heroku[router]: at=info method=POST path="/data" host=ab-test-app-studio.herokuapp.com request_id=542cd983-e28d-40d6-8523-9b6bd9df226a fwd="71.117.143.167" dyno=web.1 connect=4ms service=9ms status=200 bytes=155 protocol=https
+2020-10-16T00:10:24.627870+00:00 heroku[router]: at=info method=GET path="/static/geoprickly.jpg" host=ab-test-app-studio.herokuapp.com request_id=192afd79-c43e-44a4-96c9-2891ea4f21d2 fwd="71.117.143.167" dyno=web.1 connect=2ms service=88ms status=200 bytes=618300 protocol=https
+2020-10-16T00:10:24.879512+00:00 app[web.1]: 10.37.161.80 - - [16/Oct/2020 00:10:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020-10-16T00:10:24.881218+00:00 heroku[router]: at=info method=GET path="/favicon.ico" host=ab-test-app-studio.herokuapp.com request_id=fc277464-8827-464c-b348-d73681875108 fwd="71.117.143.167" dyno=web.1 connect=0ms service=3ms status=404 bytes=394 protocol=https
+2020-10-16T00:10:25.436329+00:00 app[web.1]: 10.145.69.143 - - [16/Oct/2020 00:10:25] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-16T00:10:25.439817+00:00 heroku[router]: at=info method=GET path="/" host=ab-test-app-studio.herokuapp.com request_id=a16364c5-c444-41d4-8542-3bef4245d04b fwd="71.117.143.167" dyno=web.1 connect=4ms service=8ms status=200 bytes=8892 protocol=https
+2020-10-16T00:10:25.495074+00:00 app[web.1]: 10.145.69.143 - - [16/Oct/2020 00:10:25] "[37mGET /static/a.css HTTP/1.1[0m" 200 -
+2020-10-16T00:10:25.500149+00:00 heroku[router]: at=info method=GET path="/static/a.css" host=ab-test-app-studio.herokuapp.com request_id=1a81fea6-6a7b-4529-b989-2ab0f3e4f385 fwd="71.117.143.167" dyno=web.1 connect=1ms service=6ms status=200 bytes=1861 protocol=https
+2020-10-16T00:10:25.550508+00:00 app[web.1]: 10.52.10.57 - - [16/Oct/2020 00:10:25] "[36mGET /static/geoprickly.jpg HTTP/1.1[0m" 304 -
+2020-10-16T00:10:25.551740+00:00 app[web.1]: 10.145.69.143 - - [16/Oct/2020 00:10:25] "[37mGET /static/coppercombo.png HTTP/1.1[0m" 200 -
+2020-10-16T00:10:25.554563+00:00 app[web.1]: 10.37.161.80 - - [16/Oct/2020 00:10:25] "[37mGET /static/garden.jpg HTTP/1.1[0m" 200 -
+2020-10-16T00:10:25.555940+00:00 app[web.1]: 10.11.162.79 - - [16/Oct/2020 00:10:25] "[33mGET /fonts/quicksand-v21-latin-regular.woff2 HTTP/1.1[0m" 404 -
+2020-10-16T00:10:25.557455+00:00 heroku[router]: at=info method=GET path="/static/geoprickly.jpg" host=ab-test-app-studio.herokuapp.com request_id=84dd118c-54f8-42f7-9edc-7a4470cb7829 fwd="71.117.143.167" dyno=web.1 connect=1ms service=9ms status=304 bytes=222 protocol=https
+2020-10-16T00:10:25.557890+00:00 app[web.1]: 10.150.246.196 - - [16/Oct/2020 00:10:25] "[37mGET /static/garden-combo.jpg HTTP/1.1[0m" 200 -
+2020-10-16T00:10:25.559072+00:00 heroku[router]: at=info method=GET path="/fonts/quicksand-v21-latin-regular.woff2" host=ab-test-app-studio.herokuapp.com request_id=46445f5c-3705-4303-b9c9-fa3b0ef01572 fwd="71.117.143.167" dyno=web.1 connect=0ms service=8ms status=404 bytes=394 protocol=https
+2020-10-16T00:10:25.569661+00:00 heroku[router]: at=info method=GET path="/static/garden.jpg" host=ab-test-app-studio.herokuapp.com request_id=e6c94458-476b-44bb-bb12-2b151f06e7b3 fwd="71.117.143.167" dyno=web.1 connect=0ms service=23ms status=200 bytes=132444 protocol=https
+2020-10-16T00:10:25.580554+00:00 heroku[router]: at=info method=GET path="/static/garden-combo.jpg" host=ab-test-app-studio.herokuapp.com request_id=badb24b7-092c-4784-b268-01629b3966d8 fwd="71.117.143.167" dyno=web.1 connect=1ms service=33ms status=200 bytes=160216 protocol=https
+2020-10-16T00:10:25.593484+00:00 heroku[router]: at=info method=GET path="/static/coppercombo.png" host=ab-test-app-studio.herokuapp.com request_id=339f5854-b4eb-463b-92bc-5eff3a5ebe0f fwd="71.117.143.167" dyno=web.1 connect=1ms service=44ms status=200 bytes=243856 protocol=https
+2020-10-16T00:10:25.619406+00:00 app[web.1]: 10.52.10.57 - - [16/Oct/2020 00:10:25] "[33mGET /fonts/quicksand-v21-latin-regular.woff HTTP/1.1[0m" 404 -
+2020-10-16T00:10:25.625471+00:00 heroku[router]: at=info method=GET path="/fonts/quicksand-v21-latin-regular.woff" host=ab-test-app-studio.herokuapp.com request_id=ca520ef1-f674-49e3-85ca-9ceb8068276e fwd="71.117.143.167" dyno=web.1 connect=2ms service=7ms status=404 bytes=394 protocol=https
+2020-10-16T00:10:25.677152+00:00 app[web.1]: 10.37.161.80 - - [16/Oct/2020 00:10:25] "[33mGET /fonts/quicksand-v21-latin-regular.ttf HTTP/1.1[0m" 404 -
+2020-10-16T00:10:25.679076+00:00 app[web.1]: AB_TESTING: A 1602807025651 0 0 rogpzepn
+2020-10-16T00:10:25.679133+00:00 heroku[router]: at=info method=GET path="/fonts/quicksand-v21-latin-regular.ttf" host=ab-test-app-studio.herokuapp.com request_id=615f9c84-9a86-4407-8543-0b019f86e87b fwd="71.117.143.167" dyno=web.1 connect=2ms service=4ms status=404 bytes=394 protocol=https
+2020-10-16T00:10:25.679708+00:00 app[web.1]: 10.52.10.57 - - [16/Oct/2020 00:10:25] "[37mPOST /data HTTP/1.1[0m" 200 -
+2020-10-16T00:10:25.684280+00:00 heroku[router]: at=info method=POST path="/data" host=ab-test-app-studio.herokuapp.com request_id=19466251-ea2f-46f5-8beb-333fb4b44357 fwd="71.117.143.167" dyno=web.1 connect=3ms service=7ms status=200 bytes=155 protocol=https
+2020-10-16T00:10:25.736755+00:00 app[web.1]: 10.145.69.143 - - [16/Oct/2020 00:10:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020-10-16T00:10:25.740314+00:00 heroku[router]: at=info method=GET path="/favicon.ico" host=ab-test-app-studio.herokuapp.com request_id=65e04430-6a17-4865-bc36-064b75a13d40 fwd="71.117.143.167" dyno=web.1 connect=2ms service=4ms status=404 bytes=394 protocol=https
+2020-10-16T00:10:26.167166+00:00 app[web.1]: 10.37.161.80 - - [16/Oct/2020 00:10:26] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-16T00:10:26.168979+00:00 heroku[router]: at=info method=GET path="/" host=ab-test-app-studio.herokuapp.com request_id=236cbc25-b25f-4d6a-8c2d-04700d1b9a2f fwd="71.117.143.167" dyno=web.1 connect=0ms service=3ms status=200 bytes=8892 protocol=https
+2020-10-16T00:10:26.293104+00:00 app[web.1]: 10.11.162.79 - - [16/Oct/2020 00:10:26] "[36mGET /static/garden-combo.jpg HTTP/1.1[0m" 304 -
+2020-10-16T00:10:26.295166+00:00 heroku[router]: at=info method=GET path="/static/garden-combo.jpg" host=ab-test-app-studio.herokuapp.com request_id=3685c828-5186-400d-bf60-c695b2fc7afd fwd="71.117.143.167" dyno=web.1 connect=0ms service=6ms status=304 bytes=222 protocol=https
+2020-10-16T00:10:26.296242+00:00 app[web.1]: 10.52.10.57 - - [16/Oct/2020 00:10:26] "[36mGET /static/garden.jpg HTTP/1.1[0m" 304 -
+2020-10-16T00:10:26.298553+00:00 app[web.1]: 10.37.161.80 - - [16/Oct/2020 00:10:26] "[36mGET /static/coppercombo.png HTTP/1.1[0m" 304 -
+2020-10-16T00:10:26.299997+00:00 app[web.1]: 10.150.246.196 - - [16/Oct/2020 00:10:26] "[36mGET /static/geoprickly.jpg HTTP/1.1[0m" 304 -
+2020-10-16T00:10:26.300348+00:00 heroku[router]: at=info method=GET path="/static/coppercombo.png" host=ab-test-app-studio.herokuapp.com request_id=343078a4-00a5-4604-8c98-bf9eeff03735 fwd="71.117.143.167" dyno=web.1 connect=0ms service=10ms status=304 bytes=222 protocol=https
+2020-10-16T00:10:26.301679+00:00 heroku[router]: at=info method=GET path="/static/geoprickly.jpg" host=ab-test-app-studio.herokuapp.com request_id=60bcde6e-b3e5-4bc1-ae22-d6bac76deabb fwd="71.117.143.167" dyno=web.1 connect=1ms service=11ms status=304 bytes=222 protocol=https
+2020-10-16T00:10:26.303101+00:00 heroku[router]: at=info method=GET path="/static/garden.jpg" host=ab-test-app-studio.herokuapp.com request_id=04fccc1f-f1eb-47bd-84da-a7467dfa62f0 fwd="71.117.143.167" dyno=web.1 connect=1ms service=11ms status=304 bytes=222 protocol=https
+2020-10-16T00:10:26.318101+00:00 app[web.1]: AB_TESTING: A 1602807026290 0 0 rogpzepn
+2020-10-16T00:10:26.320397+00:00 app[web.1]: 10.52.10.57 - - [16/Oct/2020 00:10:26] "[33mGET /fonts/quicksand-v21-latin-regular.woff2 HTTP/1.1[0m" 404 -
+2020-10-16T00:10:26.321135+00:00 app[web.1]: 10.11.162.79 - - [16/Oct/2020 00:10:26] "[37mPOST /data HTTP/1.1[0m" 200 -
+2020-10-16T00:10:26.323243+00:00 heroku[router]: at=info method=POST path="/data" host=ab-test-app-studio.herokuapp.com request_id=bb33f8c5-d01f-42f4-91fe-ba64dc93c2f1 fwd="71.117.143.167" dyno=web.1 connect=0ms service=6ms status=200 bytes=155 protocol=https
+2020-10-16T00:10:26.325255+00:00 heroku[router]: at=info method=GET path="/fonts/quicksand-v21-latin-regular.woff2" host=ab-test-app-studio.herokuapp.com request_id=fc7afa0a-5442-4019-9827-5e9d18d2a378 fwd="71.117.143.167" dyno=web.1 connect=1ms service=4ms status=404 bytes=394 protocol=https
+2020-10-16T00:10:26.355806+00:00 app[web.1]: 10.37.161.80 - - [16/Oct/2020 00:10:26] "[33mGET /fonts/quicksand-v21-latin-regular.woff HTTP/1.1[0m" 404 -
+2020-10-16T00:10:26.357671+00:00 heroku[router]: at=info method=GET path="/fonts/quicksand-v21-latin-regular.woff" host=ab-test-app-studio.herokuapp.com request_id=2ae6d5f8-9d53-4dbd-984c-d95c888e175a fwd="71.117.143.167" dyno=web.1 connect=0ms service=4ms status=404 bytes=394 protocol=https
+2020-10-16T00:10:26.387765+00:00 app[web.1]: 10.37.161.80 - - [16/Oct/2020 00:10:26] "[33mGET /fonts/quicksand-v21-latin-regular.ttf HTTP/1.1[0m" 404 -
+2020-10-16T00:10:26.392432+00:00 heroku[router]: at=info method=GET path="/fonts/quicksand-v21-latin-regular.ttf" host=ab-test-app-studio.herokuapp.com request_id=45e62d0d-ce59-4a41-973a-0a36154c9819 fwd="71.117.143.167" dyno=web.1 connect=0ms service=3ms status=404 bytes=394 protocol=https
+2020-10-16T00:10:26.790701+00:00 app[web.1]: 10.37.161.80 - - [16/Oct/2020 00:10:26] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-16T00:10:26.794817+00:00 heroku[router]: at=info method=GET path="/" host=ab-test-app-studio.herokuapp.com request_id=7d6d6d2c-c5a6-4218-94b1-3d76edad7def fwd="71.117.143.167" dyno=web.1 connect=1ms service=7ms status=200 bytes=9267 protocol=https
+2020-10-16T00:10:26.906301+00:00 app[web.1]: 10.37.161.80 - - [16/Oct/2020 00:10:26] "[36mGET /static/coppercombo.png HTTP/1.1[0m" 304 -
+2020-10-16T00:10:26.907842+00:00 app[web.1]: 10.11.162.79 - - [16/Oct/2020 00:10:26] "[36mGET /static/garden-combo.jpg HTTP/1.1[0m" 304 -
+2020-10-16T00:10:26.909299+00:00 heroku[router]: at=info method=GET path="/static/coppercombo.png" host=ab-test-app-studio.herokuapp.com request_id=d041ce40-563b-48dc-9bca-0b89084aa151 fwd="71.117.143.167" dyno=web.1 connect=1ms service=8ms status=304 bytes=222 protocol=https
+2020-10-16T00:10:26.909538+00:00 app[web.1]: 10.52.10.57 - - [16/Oct/2020 00:10:26] "[36mGET /static/garden.jpg HTTP/1.1[0m" 304 -
+2020-10-16T00:10:26.911029+00:00 heroku[router]: at=info method=GET path="/static/garden-combo.jpg" host=ab-test-app-studio.herokuapp.com request_id=17dba9e2-6e4d-4971-9d1a-08d544b3fcfb fwd="71.117.143.167" dyno=web.1 connect=1ms service=12ms status=304 bytes=222 protocol=https
+2020-10-16T00:10:26.914068+00:00 heroku[router]: at=info method=GET path="/static/garden.jpg" host=ab-test-app-studio.herokuapp.com request_id=b72709d9-d9d6-4310-ada7-46d874456972 fwd="71.117.143.167" dyno=web.1 connect=2ms service=12ms status=304 bytes=222 protocol=https
+2020-10-16T00:10:26.921192+00:00 app[web.1]: AB_TESTING: B 1602807026901 0 0 rogpzepn
+2020-10-16T00:10:26.922053+00:00 app[web.1]: 10.51.205.51 - - [16/Oct/2020 00:10:26] "[37mPOST /data HTTP/1.1[0m" 200 -
+2020-10-16T00:10:26.923091+00:00 heroku[router]: at=info method=POST path="/data" host=ab-test-app-studio.herokuapp.com request_id=b0f4f4c9-dcdc-46c3-9b2c-b34e471dc32d fwd="71.117.143.167" dyno=web.1 connect=0ms service=3ms status=200 bytes=155 protocol=https
+2020-10-16T00:10:26.925327+00:00 app[web.1]: 10.150.246.196 - - [16/Oct/2020 00:10:26] "[36mGET /static/geoprickly.jpg HTTP/1.1[0m" 304 -
+2020-10-16T00:10:26.926814+00:00 heroku[router]: at=info method=GET path="/static/geoprickly.jpg" host=ab-test-app-studio.herokuapp.com request_id=ff8dd409-7afe-4463-9093-ba3e3eb83d50 fwd="71.117.143.167" dyno=web.1 connect=6ms service=6ms status=304 bytes=222 protocol=https
+2020-10-16T00:10:29.408344+00:00 app[web.1]: AB_TESTING: B 1602807026901 1602807029379 mp4 rogpzepn
+2020-10-16T00:10:29.409420+00:00 app[web.1]: 10.37.161.80 - - [16/Oct/2020 00:10:29] "[37mPOST /data HTTP/1.1[0m" 200 -
+2020-10-16T00:10:29.411243+00:00 heroku[router]: at=info method=POST path="/data" host=ab-test-app-studio.herokuapp.com request_id=d4c771cb-3fef-4617-9de0-5a1b2b35f78a fwd="71.117.143.167" dyno=web.1 connect=0ms service=4ms status=200 bytes=155 protocol=https
+2020-10-16T00:10:29.579330+00:00 app[web.1]: AB_TESTING: B 1602807026901 1602807029559 mp4 rogpzepn
+2020-10-16T00:10:29.580571+00:00 app[web.1]: 10.37.161.80 - - [16/Oct/2020 00:10:29] "[37mPOST /data HTTP/1.1[0m" 200 -
+2020-10-16T00:10:29.582242+00:00 heroku[router]: at=info method=POST path="/data" host=ab-test-app-studio.herokuapp.com request_id=858b8955-d0db-400b-a66e-278cf75b31da fwd="71.117.143.167" dyno=web.1 connect=0ms service=4ms status=200 bytes=155 protocol=https
+2020-10-16T00:10:30.087590+00:00 app[web.1]: AB_TESTING: B 1602807026901 1602807030064 mp3 rogpzepn
+2020-10-16T00:10:30.088526+00:00 app[web.1]: 10.37.161.80 - - [16/Oct/2020 00:10:30] "[37mPOST /data HTTP/1.1[0m" 200 -
+2020-10-16T00:10:30.090547+00:00 heroku[router]: at=info method=POST path="/data" host=ab-test-app-studio.herokuapp.com request_id=cfafc124-ebe3-4735-964c-12eff60450ea fwd="71.117.143.167" dyno=web.1 connect=0ms service=8ms status=200 bytes=155 protocol=https
+2020-10-16T00:10:30.950276+00:00 app[web.1]: 10.37.161.80 - - [16/Oct/2020 00:10:30] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-16T00:10:30.952474+00:00 heroku[router]: at=info method=GET path="/" host=ab-test-app-studio.herokuapp.com request_id=cab45e32-1a41-4f4c-87ce-ff892bfd2fd4 fwd="71.117.143.167" dyno=web.1 connect=0ms service=3ms status=200 bytes=9267 protocol=https
+2020-10-16T00:10:31.079838+00:00 app[web.1]: 10.37.161.80 - - [16/Oct/2020 00:10:31] "[37mGET /static/coppercombo.png HTTP/1.1[0m" 200 -
+2020-10-16T00:10:31.082593+00:00 app[web.1]: 10.52.10.57 - - [16/Oct/2020 00:10:31] "[37mGET /static/garden-combo.jpg HTTP/1.1[0m" 200 -
+2020-10-16T00:10:31.083894+00:00 app[web.1]: 10.150.246.196 - - [16/Oct/2020 00:10:31] "[37mGET /static/garden.jpg HTTP/1.1[0m" 200 -
+2020-10-16T00:10:31.093111+00:00 app[web.1]: AB_TESTING: B 1602807031062 0 0 rogpzepn
+2020-10-16T00:10:31.094607+00:00 app[web.1]: 10.11.162.79 - - [16/Oct/2020 00:10:31] "[36mGET /static/geoprickly.jpg HTTP/1.1[0m" 304 -
+2020-10-16T00:10:31.095484+00:00 app[web.1]: 10.51.205.51 - - [16/Oct/2020 00:10:31] "[37mPOST /data HTTP/1.1[0m" 200 -
+2020-10-16T00:10:31.096522+00:00 heroku[router]: at=info method=GET path="/static/geoprickly.jpg" host=ab-test-app-studio.herokuapp.com request_id=df209dad-a84b-4373-a9a7-8242fcf90c2d fwd="71.117.143.167" dyno=web.1 connect=0ms service=21ms status=304 bytes=222 protocol=https
+2020-10-16T00:10:31.097141+00:00 heroku[router]: at=info method=POST path="/data" host=ab-test-app-studio.herokuapp.com request_id=7ee3c391-c3a0-445f-8313-ee231ed27238 fwd="71.117.143.167" dyno=web.1 connect=0ms service=14ms status=200 bytes=155 protocol=https
+2020-10-16T00:10:31.108387+00:00 heroku[router]: at=info method=GET path="/static/garden-combo.jpg" host=ab-test-app-studio.herokuapp.com request_id=7e3ce748-be30-417f-b9f7-98f864dd6afc fwd="71.117.143.167" dyno=web.1 connect=1ms service=33ms status=200 bytes=160216 protocol=https
+2020-10-16T00:10:31.108594+00:00 heroku[router]: at=info method=GET path="/static/coppercombo.png" host=ab-test-app-studio.herokuapp.com request_id=5c8e2f83-663e-481c-938c-4f3a6b4b7e4a fwd="71.117.143.167" dyno=web.1 connect=0ms service=29ms status=200 bytes=243856 protocol=https
+2020-10-16T00:10:31.109049+00:00 heroku[router]: at=info method=GET path="/static/garden.jpg" host=ab-test-app-studio.herokuapp.com request_id=088b63bf-40a6-47b4-944e-d907d2541b5a fwd="71.117.143.167" dyno=web.1 connect=1ms service=29ms status=200 bytes=132444 protocol=https
+2020-10-16T00:10:31.230577+00:00 app[web.1]: 10.37.161.80 - - [16/Oct/2020 00:10:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020-10-16T00:10:31.232310+00:00 heroku[router]: at=info method=GET path="/favicon.ico" host=ab-test-app-studio.herokuapp.com request_id=a6580071-4c7f-40b4-b07a-09d1bbb56c9e fwd="71.117.143.167" dyno=web.1 connect=0ms service=4ms status=404 bytes=394 protocol=https
+2020-10-16T00:10:31.900202+00:00 app[web.1]: AB_TESTING: B 1602807031062 1602807031871 mp2 rogpzepn
+2020-10-16T00:10:31.901300+00:00 app[web.1]: 10.150.246.196 - - [16/Oct/2020 00:10:31] "[37mPOST /data HTTP/1.1[0m" 200 -
+2020-10-16T00:10:31.906527+00:00 heroku[router]: at=info method=POST path="/data" host=ab-test-app-studio.herokuapp.com request_id=58831b1c-2e0e-4f7b-a597-ecf6f6765a78 fwd="71.117.143.167" dyno=web.1 connect=1ms service=5ms status=200 bytes=155 protocol=https
+2020-10-16T00:10:32.959714+00:00 app[web.1]: 10.52.10.57 - - [16/Oct/2020 00:10:32] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-16T00:10:32.964497+00:00 heroku[router]: at=info method=GET path="/" host=ab-test-app-studio.herokuapp.com request_id=9919f9c7-e6ff-43cc-be6a-48eef5bd3bcc fwd="71.117.143.167" dyno=web.1 connect=2ms service=4ms status=200 bytes=9267 protocol=https
+2020-10-16T00:10:33.075208+00:00 app[web.1]: 10.51.205.51 - - [16/Oct/2020 00:10:33] "[36mGET /static/garden-combo.jpg HTTP/1.1[0m" 304 -
+2020-10-16T00:10:33.076239+00:00 heroku[router]: at=info method=GET path="/static/garden-combo.jpg" host=ab-test-app-studio.herokuapp.com request_id=2ae52cfe-db2e-4da5-9032-57a01efbe455 fwd="71.117.143.167" dyno=web.1 connect=0ms service=5ms status=304 bytes=222 protocol=https
+2020-10-16T00:10:33.077981+00:00 app[web.1]: 10.11.162.79 - - [16/Oct/2020 00:10:33] "[36mGET /static/garden.jpg HTTP/1.1[0m" 304 -
+2020-10-16T00:10:33.079632+00:00 heroku[router]: at=info method=GET path="/static/garden.jpg" host=ab-test-app-studio.herokuapp.com request_id=df320b4e-7061-40a5-978d-3d08922a52ae fwd="71.117.143.167" dyno=web.1 connect=1ms service=7ms status=304 bytes=222 protocol=https
+2020-10-16T00:10:33.082312+00:00 app[web.1]: 10.52.10.57 - - [16/Oct/2020 00:10:33] "[36mGET /static/geoprickly.jpg HTTP/1.1[0m" 304 -
+2020-10-16T00:10:33.083927+00:00 app[web.1]: 10.150.246.196 - - [16/Oct/2020 00:10:33] "[36mGET /static/coppercombo.png HTTP/1.1[0m" 304 -
+2020-10-16T00:10:33.085402+00:00 heroku[router]: at=info method=GET path="/static/coppercombo.png" host=ab-test-app-studio.herokuapp.com request_id=aa54a504-6d73-4cae-87c2-b9eb721fbf5f fwd="71.117.143.167" dyno=web.1 connect=1ms service=11ms status=304 bytes=222 protocol=https
+2020-10-16T00:10:33.086789+00:00 heroku[router]: at=info method=GET path="/static/geoprickly.jpg" host=ab-test-app-studio.herokuapp.com request_id=e9a69619-7e04-46e8-8546-b6143a0a8581 fwd="71.117.143.167" dyno=web.1 connect=1ms service=12ms status=304 bytes=222 protocol=https
+2020-10-16T00:10:33.125631+00:00 app[web.1]: AB_TESTING: B 1602807033102 0 0 rogpzepn
+2020-10-16T00:10:33.126625+00:00 app[web.1]: 10.52.10.57 - - [16/Oct/2020 00:10:33] "[37mPOST /data HTTP/1.1[0m" 200 -
+2020-10-16T00:10:33.132414+00:00 heroku[router]: at=info method=POST path="/data" host=ab-test-app-studio.herokuapp.com request_id=cd2361c9-2277-4be5-9989-b3bde2ed1dd5 fwd="71.117.143.167" dyno=web.1 connect=1ms service=5ms status=200 bytes=155 protocol=https
+2020-10-16T00:10:33.558012+00:00 app[web.1]: 10.150.246.196 - - [16/Oct/2020 00:10:33] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-16T00:10:33.559839+00:00 heroku[router]: at=info method=GET path="/" host=ab-test-app-studio.herokuapp.com request_id=31487dff-29cc-404d-a972-f6306d6109e7 fwd="71.117.143.167" dyno=web.1 connect=1ms service=4ms status=200 bytes=8892 protocol=https
+2020-10-16T00:10:33.683132+00:00 app[web.1]: 10.11.162.79 - - [16/Oct/2020 00:10:33] "[36mGET /static/garden.jpg HTTP/1.1[0m" 304 -
+2020-10-16T00:10:33.684887+00:00 heroku[router]: at=info method=GET path="/static/garden.jpg" host=ab-test-app-studio.herokuapp.com request_id=bab55c28-2a0c-4770-b8a7-f6ebc38603ab fwd="71.117.143.167" dyno=web.1 connect=0ms service=5ms status=304 bytes=222 protocol=https
+2020-10-16T00:10:33.691623+00:00 app[web.1]: 10.52.10.57 - - [16/Oct/2020 00:10:33] "[36mGET /static/coppercombo.png HTTP/1.1[0m" 304 -
+2020-10-16T00:10:33.693935+00:00 app[web.1]: 10.51.205.51 - - [16/Oct/2020 00:10:33] "[36mGET /static/garden-combo.jpg HTTP/1.1[0m" 304 -
+2020-10-16T00:10:33.695561+00:00 app[web.1]: 10.150.246.196 - - [16/Oct/2020 00:10:33] "[36mGET /static/geoprickly.jpg HTTP/1.1[0m" 304 -
+2020-10-16T00:10:33.696379+00:00 heroku[router]: at=info method=GET path="/static/garden-combo.jpg" host=ab-test-app-studio.herokuapp.com request_id=e2f4b3f7-2a50-4e82-83c1-14ab428f16e4 fwd="71.117.143.167" dyno=web.1 connect=6ms service=11ms status=304 bytes=222 protocol=https
+2020-10-16T00:10:33.697168+00:00 heroku[router]: at=info method=GET path="/static/coppercombo.png" host=ab-test-app-studio.herokuapp.com request_id=3840a193-81a3-4681-a932-5daea9a2ea1d fwd="71.117.143.167" dyno=web.1 connect=1ms service=14ms status=304 bytes=222 protocol=https
+2020-10-16T00:10:33.704414+00:00 heroku[router]: at=info method=GET path="/static/geoprickly.jpg" host=ab-test-app-studio.herokuapp.com request_id=49adcb32-d559-413a-9147-23cc60f87e52 fwd="71.117.143.167" dyno=web.1 connect=1ms service=22ms status=304 bytes=222 protocol=https
+2020-10-16T00:10:33.710150+00:00 app[web.1]: AB_TESTING: A 1602807033680 0 0 rogpzepn
+2020-10-16T00:10:33.711343+00:00 app[web.1]: 10.11.162.79 - - [16/Oct/2020 00:10:33] "[37mPOST /data HTTP/1.1[0m" 200 -
+2020-10-16T00:10:33.712975+00:00 heroku[router]: at=info method=POST path="/data" host=ab-test-app-studio.herokuapp.com request_id=fdbe869c-b7cf-4c27-8d91-65ba99391836 fwd="71.117.143.167" dyno=web.1 connect=0ms service=4ms status=200 bytes=155 protocol=https
+2020-10-16T00:10:33.728058+00:00 app[web.1]: 10.71.137.172 - - [16/Oct/2020 00:10:33] "[33mGET /fonts/quicksand-v21-latin-regular.woff2 HTTP/1.1[0m" 404 -
+2020-10-16T00:10:33.729719+00:00 heroku[router]: at=info method=GET path="/fonts/quicksand-v21-latin-regular.woff2" host=ab-test-app-studio.herokuapp.com request_id=39a5f75f-0d09-4faa-8a53-c5d675c157b7 fwd="71.117.143.167" dyno=web.1 connect=0ms service=2ms status=404 bytes=394 protocol=https
+2020-10-16T00:10:33.756117+00:00 app[web.1]: 10.52.10.57 - - [16/Oct/2020 00:10:33] "[33mGET /fonts/quicksand-v21-latin-regular.woff HTTP/1.1[0m" 404 -
+2020-10-16T00:10:33.760620+00:00 heroku[router]: at=info method=GET path="/fonts/quicksand-v21-latin-regular.woff" host=ab-test-app-studio.herokuapp.com request_id=40f34aee-08fd-4d80-ac4e-3a77ab5328f3 fwd="71.117.143.167" dyno=web.1 connect=1ms service=3ms status=404 bytes=394 protocol=https
+2020-10-16T00:10:33.793376+00:00 app[web.1]: 10.150.246.196 - - [16/Oct/2020 00:10:33] "[33mGET /fonts/quicksand-v21-latin-regular.ttf HTTP/1.1[0m" 404 -
+2020-10-16T00:10:33.795027+00:00 heroku[router]: at=info method=GET path="/fonts/quicksand-v21-latin-regular.ttf" host=ab-test-app-studio.herokuapp.com request_id=90256246-812a-47a2-ae48-977d0d834918 fwd="71.117.143.167" dyno=web.1 connect=1ms service=5ms status=404 bytes=394 protocol=https
+2020-10-16T00:10:34.424841+00:00 app[web.1]: AB_TESTING: A 1602807033680 1602807034408 mp1 rogpzepn
+2020-10-16T00:10:34.425381+00:00 app[web.1]: 10.52.10.57 - - [16/Oct/2020 00:10:34] "[37mPOST /data HTTP/1.1[0m" 200 -
+2020-10-16T00:10:34.429587+00:00 heroku[router]: at=info method=POST path="/data" host=ab-test-app-studio.herokuapp.com request_id=03ccb114-3f1a-40e9-b2db-f9e76d2a03a7 fwd="71.117.143.167" dyno=web.1 connect=1ms service=3ms status=200 bytes=155 protocol=https
+2020-10-16T00:10:34.665018+00:00 app[web.1]: AB_TESTING: A 1602807033680 1602807034641 mp1 rogpzepn
+2020-10-16T00:10:34.665801+00:00 app[web.1]: 10.150.246.196 - - [16/Oct/2020 00:10:34] "[37mPOST /data HTTP/1.1[0m" 200 -
+2020-10-16T00:10:34.667558+00:00 heroku[router]: at=info method=POST path="/data" host=ab-test-app-studio.herokuapp.com request_id=b6cb46de-4b24-4b5c-ab23-9a7c9c01e394 fwd="71.117.143.167" dyno=web.1 connect=2ms service=5ms status=200 bytes=155 protocol=https
+2020-10-16T00:10:34.901133+00:00 app[web.1]: AB_TESTING: A 1602807033680 1602807034817 mp1 rogpzepn
+2020-10-16T00:10:34.902032+00:00 app[web.1]: 10.52.10.57 - - [16/Oct/2020 00:10:34] "[37mPOST /data HTTP/1.1[0m" 200 -
+2020-10-16T00:10:34.906387+00:00 heroku[router]: at=info method=POST path="/data" host=ab-test-app-studio.herokuapp.com request_id=ffb5c1ef-cc8d-4dd8-a0a3-92f5d1fbe8f5 fwd="71.117.143.167" dyno=web.1 connect=1ms service=4ms status=200 bytes=155 protocol=https
+2020-10-16T00:10:35.432556+00:00 app[web.1]: AB_TESTING: A 1602807033680 1602807035410 mp2 rogpzepn
+2020-10-16T00:10:35.433263+00:00 app[web.1]: 10.150.246.196 - - [16/Oct/2020 00:10:35] "[37mPOST /data HTTP/1.1[0m" 200 -
+2020-10-16T00:10:35.434912+00:00 heroku[router]: at=info method=POST path="/data" host=ab-test-app-studio.herokuapp.com request_id=5aaba115-5de7-43dd-8427-6f5ebc63011f fwd="71.117.143.167" dyno=web.1 connect=1ms service=5ms status=200 bytes=155 protocol=https
+2020-10-16T00:10:37.788255+00:00 app[web.1]: 10.52.10.57 - - [16/Oct/2020 00:10:37] "[37mGET /checkout?version=A&mp1=3&mp2=1&mp3=0&mp4=0 HTTP/1.1[0m" 200 -
+2020-10-16T00:10:37.792676+00:00 heroku[router]: at=info method=GET path= "/checkout?version= A&mp1= 3&mp2= 1&mp3= 0&mp4=0" host=ab-test-app-studio.herokuapp.com request_id=de991c87-2ab8-493f-8f8c-fe674a153c03 fwd="71.117.143.167" dyno=web.1 connect=1ms service=6ms status=200 bytes=5236 protocol=https
+2020-10-16T00:10:37.913615+00:00 app[web.1]: 10.150.246.196 - - [16/Oct/2020 00:10:37] "[33mGET /static/main.css HTTP/1.1[0m" 404 -
+2020-10-16T00:10:37.915648+00:00 heroku[router]: at=info method=GET path="/static/main.css" host=ab-test-app-studio.herokuapp.com request_id=536e29a0-e6c3-4c40-97d1-70b0b24f7800 fwd="71.117.143.167" dyno=web.1 connect=1ms service=5ms status=404 bytes=394 protocol=https
+2020-10-16T00:10:37.968859+00:00 app[web.1]: AB_TESTING: C 1602807037936 0 0 rogpzepn
+2020-10-16T00:10:37.969774+00:00 app[web.1]: 10.52.10.57 - - [16/Oct/2020 00:10:37] "[37mPOST /data HTTP/1.1[0m" 200 -
+2020-10-16T00:10:37.975420+00:00 heroku[router]: at=info method=POST path="/data" host=ab-test-app-studio.herokuapp.com request_id=80d190bb-9b9f-44a2-89f9-d3270c734c54 fwd="71.117.143.167" dyno=web.1 connect=1ms service=8ms status=200 bytes=155 protocol=https
+2020-10-16T00:10:39.381067+00:00 app[web.1]: 10.150.246.196 - - [16/Oct/2020 00:10:39] "[37mGET /?version=A&mp1=3&mp2=1&mp3=0&mp4=0 HTTP/1.1[0m" 200 -
+2020-10-16T00:10:39.383137+00:00 heroku[router]: at=info method=GET path= "/?version= A&mp1= 3&mp2= 1&mp3= 0&mp4=0" host=ab-test-app-studio.herokuapp.com request_id=a04f38a9-1289-4600-b875-f8c3f88726f2 fwd="71.117.143.167" dyno=web.1 connect=1ms service=6ms status=200 bytes=8892 protocol=https
+2020-10-16T00:10:39.494169+00:00 app[web.1]: 10.52.10.57 - - [16/Oct/2020 00:10:39] "[33mGET /fonts/quicksand-v21-latin-regular.woff2 HTTP/1.1[0m" 404 -
+2020-10-16T00:10:39.498501+00:00 heroku[router]: at=info method=GET path="/fonts/quicksand-v21-latin-regular.woff2" host=ab-test-app-studio.herokuapp.com request_id=87e8deea-70a4-4dc8-910e-0283d3c3a01c fwd="71.117.143.167" dyno=web.1 connect=1ms service=5ms status=404 bytes=394 protocol=https
+2020-10-16T00:10:39.523095+00:00 app[web.1]: 10.52.10.57 - - [16/Oct/2020 00:10:39] "[33mGET /fonts/quicksand-v21-latin-regular.woff HTTP/1.1[0m" 404 -
+2020-10-16T00:10:39.526688+00:00 app[web.1]: AB_TESTING: A 1602807039498 0 0 rogpzepn
+2020-10-16T00:10:39.527546+00:00 app[web.1]: 10.150.246.196 - - [16/Oct/2020 00:10:39] "[37mPOST /data HTTP/1.1[0m" 200 -
+2020-10-16T00:10:39.528853+00:00 heroku[router]: at=info method=GET path="/fonts/quicksand-v21-latin-regular.woff" host=ab-test-app-studio.herokuapp.com request_id=76783392-c6bc-49c8-8921-24bb5c8f14aa fwd="71.117.143.167" dyno=web.1 connect=1ms service=5ms status=404 bytes=394 protocol=https
+2020-10-16T00:10:39.529541+00:00 heroku[router]: at=info method=POST path="/data" host=ab-test-app-studio.herokuapp.com request_id=70eebad1-c360-40c5-a5fc-e84103d6111f fwd="71.117.143.167" dyno=web.1 connect=1ms service=4ms status=200 bytes=155 protocol=https
+2020-10-16T00:10:39.561216+00:00 app[web.1]: 10.52.10.57 - - [16/Oct/2020 00:10:39] "[33mGET /fonts/quicksand-v21-latin-regular.ttf HTTP/1.1[0m" 404 -
+2020-10-16T00:10:39.565451+00:00 heroku[router]: at=info method=GET path="/fonts/quicksand-v21-latin-regular.ttf" host=ab-test-app-studio.herokuapp.com request_id=14671960-b27c-4bad-94d1-b85e0fdb7f12 fwd="71.117.143.167" dyno=web.1 connect=1ms service=3ms status=404 bytes=394 protocol=https
